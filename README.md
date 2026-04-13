@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b65c91e-917a-4eda-aa69-ea19476488ce" />  
 
+<img width="2556" height="1079" alt="image" src="https://github.com/user-attachments/assets/575ce2ec-99e1-414c-98a1-40cc79afb783" /> 
+
 ```
 
 Solucion completa, funcional y estructurada en Java (IntelliJ) que cubre exactamente lo que necesitas:
