@@ -21,6 +21,15 @@ public class Controlador {
         vista.btnProcesar.addActionListener(this::procesar);
     }
 
-    private void procesar(ActionEvent actionEvent) {
-    }   
+    private void procesar(ActionEvent e) {
+
+        service.generarXML();
+
+        int total = service.contarRegistros();
+
+        vista.txtResultado.setText("TOTAL REGISTROS: " + total);
+
+        Registro r = new Registro(total);
+        dao.insertar(r);
+    }
 }
