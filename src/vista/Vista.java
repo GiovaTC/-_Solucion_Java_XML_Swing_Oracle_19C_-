@@ -21,4 +21,4 @@ public class Vista extends JFrame {
         add(btnProcesar);
         add(txtResultado);
     }
-}   
+}
