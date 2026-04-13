@@ -67,4 +67,4 @@ public class XmlService {
         }
         return total;
     }
-}   
+}
