@@ -5,6 +5,8 @@
 
 <img width="2556" height="1079" alt="image" src="https://github.com/user-attachments/assets/575ce2ec-99e1-414c-98a1-40cc79afb783" /> 
 
+<img width="1266" height="952" alt="image" src="https://github.com/user-attachments/assets/f002c00c-f33e-47ce-89ee-3ceb99d4a8a6" />  
+
 ```
 
 Solucion completa, funcional y estructurada en Java (IntelliJ) que cubre exactamente lo que necesitas:
