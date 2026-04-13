@@ -78,5 +78,5 @@ public class Registro {
 
     public int getCampo12() {
         return campo12;
-    }   
+    }
 }
